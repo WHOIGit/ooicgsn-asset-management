@@ -1,7 +1,0 @@
-serial,name,value,notes
-43-2498,CC_frequency_offset,-870.21,
-43-2498,CC_oxygen_signal_slope,0.00032609,use adjusted Soc
-43-2498,CC_residual_temperature_correction_factor_a,-0.0028433,
-43-2498,CC_residual_temperature_correction_factor_b,0.00011818,
-43-2498,CC_residual_temperature_correction_factor_c,-1.6541e-06,
-43-2498,CC_residual_temperature_correction_factor_e,0.036,
