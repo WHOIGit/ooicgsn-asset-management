@@ -93,6 +93,7 @@ CGVEH-GLDRCE-00384,A00801,Node,1,Coastal Glider 384,COASTAL GLIDER 1000M,Teledyn
 CGVEH-GLDRCE-00386,A00473,Node,1,Coastal Glider 386,COASTAL GLIDER 1000M,Teledyne Webb,DG-1000,386,,20131011,186935,,Oregon State University
 CGVEH-GLDRCE-00871,,Node,1,Coastal Glider 871,COASTAL GLIDER 1000M,Teledyne Webb,GLD-0075_D,871,,20200813,,,Oregon State University
 CGVEH-GLDRCE-00917,,Node,1,Coastal Glider 917,COASTAL GLIDER,Teledyne Webb,GLD-0086_S,917,,20210403,,,Oregon State University
+CGVEH-GLDRCE-01012,,Node,1,Coastal Glider 1012,COASTAL GLIDER,Teledyne Webb,Slocum G3,1012,,20220801,,,Oregon State University
 CGVEH-GLDRCP-00335,A01774,Node,1,Coastal Glider 335,COASTAL GLIDER 200M,Teledyne Webb,ASSY 4335-200,335,,20130125,186935,,Woods Hole Oceanographic Institution
 CGVEH-GLDRCP-00336,A00181,Node,1,Coastal Glider 336,COASTAL GLIDER 1000M,Teledyne Webb,ASSY 4335-1000,336,,20130125,186935,,Woods Hole Oceanographic Institution
 CGVEH-GLDRCP-00339,A00257,Node,1,Coastal Glider 339,COASTAL GLIDER 200M,Teledyne Webb,ASSY 4335-200,339,,20130301,186935,,Woods Hole Oceanographic Institution
@@ -152,6 +153,8 @@ CGVEH-GLDROO-00538,A01433,Node,1,Open Ocean Glider 538,OPEN OCEAN GLIDER,Teledyn
 CGVEH-GLDROO-00559,OL000606,Node,1,Open Ocean Glider 559,OPEN OCEAN GLIDER 1000M,Teledyne Webb,ASSY 4495,559,,,,,Woods Hole Oceanographic Institution
 CGVEH-GLDROO-00560,A01763,Node,1,Open Ocean Glider 560,OPEN OCEAN GLIDER 1000M,Teledyne Webb,ASSY 4495,560,,20140804,0,,Woods Hole Oceanographic Institution
 CGVEH-GLDROO-00561,OL000147,Node,1,Open Ocean Glider 561,OPEN OCEAN GLIDER 1000M,Teledyne Webb,ASSY 4495,561,,20150831,9180,,Woods Hole Oceanographic Institution
+CGVEH-GLDROO-00898,,Node,1,Open Ocean Glider 898,OPEN OCEAN GLIDER 1000M,Teledyne Webb,ASSY GLD-0089-D,898,,,,,Woods Hole Oceanographic Institution
+CGVEH-GLDROO-00899,,Node,1,Open Ocean Glider 899,OPEN OCEAN GLIDER 1000M,Teledyne Webb,ASSY GLD-0089-D,899,,,,,Woods Hole Oceanographic Institution
 CGVEH-GWFPGX-10401,A00630,Node,0,Global Wire-Following Profiler,WFP GLOBAL,McLane,MMP-210-3512,ML13104-01,,20140115,98735.1,,Woods Hole Oceanographic Institution
 CGVEH-GWFPGX-10402,A00631,Node,0,Global Wire-Following Profiler,WFP GLOBAL,McLane,MMP-210-3512,ML13104-02,,20140115,98735.1,,Woods Hole Oceanographic Institution
 CGVEH-GWFPGX-10403,A00632,Node,0,Global Wire-Following Profiler,WFP GLOBAL,McLane,MMP-210-3512,ML13104-03,,20140115,98735.1,,Woods Hole Oceanographic Institution
