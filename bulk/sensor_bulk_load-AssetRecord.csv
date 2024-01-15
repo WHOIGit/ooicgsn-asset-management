@@ -527,7 +527,7 @@ CGINS-ADCPTM-19023,A00245,Sensor,0,ADCP Velocity Profiler (short range) with Wav
 CGINS-ADCPTM-21517,A01051,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21517,,20140506,25569,,Oregon State University
 CGINS-ADCPTM-21522,A01052,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21522,,20140506,25569,,Oregon State University
 CGINS-ADCPTM-21524,A01053,Sensor,0,ADCP Velocity Profiler (short range) with Waves: ADCPT Series M,ADCPT SERIES M (WHS600-500-Waves),Teledyne RDI,WHS600-500-Waves,21524,,20140506,25569,,Oregon State University
-CGINS-ADCPTQ-01033,A04373,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200 (WHII),1033,,20231206,,,Woods Hole Oceanographic Institution,
+CGINS-ADCPTQ-01033,A04373,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200 [WHII],1033,,20231206,,,Woods Hole Oceanographic Institution,
 CGINS-ADCPTQ-01035,A04379,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200 (WHII),1035,,20231211,,,Woods Hole Oceanographic Institution,
 CGINS-ADCPTQ-01036,A04380,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200 (WHII),1036,,20231211,,,Woods Hole Oceanographic Institution,
 CGINS-ADCPTQ-01040,A04387,Sensor,0,ADCP Velocity Profiler (short range): ADCPT Series Q,ADCPT SERIES Q,Teledyne RDI,WHS600-200 (WHII),1040,,20240102,,,Woods Hole Oceanographic Institution,
